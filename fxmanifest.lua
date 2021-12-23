@@ -3,7 +3,7 @@ game 'gta5'
 
 description 'nema_casilleros'
 version '1.0.0'
-authour 'Nema'
+authour 'nemaDev'
 
 
 ui_page 'html/index.html'
